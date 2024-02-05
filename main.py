@@ -1,3 +1,5 @@
 print("Hello World!")
 print ("I like your dog.")
 print("Test")
+print("The name's Test.")
+print("Johnny Test.")
