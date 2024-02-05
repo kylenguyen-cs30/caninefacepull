@@ -1,2 +1,2 @@
-print("Hello World! Make sure to do your hw.")
+print("Hello World!")
 print("Computer Science is Aweseome!")
