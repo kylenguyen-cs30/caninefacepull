@@ -1,6 +1,8 @@
 # caninefacepull
 I am here to do some changes to this forked repo. PLS WORK!
 
-PR test. Here is a picture of my 2 kittens churro and chia!
+The professor's dog can lift more than me.
 
-![alt text](<churro and chia.jpg>)
+Daniel was here :)
+
+Please do not merge your own PRs without approval.
