@@ -1,8 +1,15 @@
-#include "iostream"
+#include <iostream>
+using namespace std;
 
-
-int main(int argc, char const *argv[])
+int main()
 {
-    std::cout << "I don't know any joke" << std::endl;
+    cout << "Hello World, I changed it";
+
+	cout << endl;
+
+	cout << "How do you think the unthinkable? With an itheberg.";
+	
+	cout << endl;
+
     return 0;
 }
